@@ -1,26 +1,25 @@
 # Hi, I'm Lea 👋
 
-Second-year student in the dual degree in **Computer Science & AI and Business Administration** at IE University, Madrid.
-I build AI systems from start to finish: the data, the model, the app around it, and soon the robot it lives in.
+I'm a second-year student at IE University in Madrid, doing the dual degree in Computer Science & AI and Business Administration. Most of my free time goes into building my own AI projects: training models, making apps around them, and now a small robot.
 
-### What I'm building
+## My projects
 
-All of these are works in progress: I started them in 2026 and keep improving them. Each page says what works today and what comes next.
+Everything here is still in progress. I started these projects in 2026 and I keep working on them, so each page explains what works now and what I'm doing next.
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**Sylvie**](https://github.com/lpesseygirod/sylvie) | A personal AI assistant that runs entirely on my laptop: voice in three languages, memory, search, actions, and a fine-tuning loop with automatic evaluation | Python, MLX, Qwen, LoRA, SQLite, Swift |
-| [**KORE**](https://github.com/lpesseygirod/kore) | A Spanish-speaking voice companion for older people, where the AI talks and tested code handles everything safety-critical | Python, Claude API, Raspberry Pi |
-| [**Survival Council**](https://github.com/lpesseygirod/survival-council) | An experiment in autonomous agents: an AI with $50 that pays for its own thinking and trades to stay alive, inside rules it cannot touch | Python, xAI Grok, Alpaca, sandboxing |
-| [**TradeBunny**](https://github.com/lpesseygirod/tradebunny) | A crypto grid-trading system that measures before it trades: a human approves every plan, and hard risk rules are enforced in code | Python, OKX API, pandas, SQLite |
-| [**Studiply**](https://github.com/lpesseygirod/studiply) | Record a lecture, keep your notes, get an editable study document, flashcards and quizzes, on iPhone and the web | TypeScript, React Native, Supabase, Claude |
+| [**Sylvie**](https://github.com/lpesseygirod/sylvie) | My personal AI assistant. She runs fully on my laptop, talks in three languages, and I train her myself | Python, MLX, Qwen, LoRA, Swift |
+| [**KORE**](https://github.com/lpesseygirod/kore) | A voice companion for older people who speak Spanish. The AI talks, and normal tested code handles anything safety-related | Python, Claude API, Raspberry Pi |
+| [**Survival Council**](https://github.com/lpesseygirod/survival-council) | A game where an AI gets $50 and has to stay alive by paying for itself and trading | Python, Grok, Alpaca |
+| [**TradeBunny**](https://github.com/lpesseygirod/tradebunny) | A crypto grid-trading system where I approve every plan and the risk rules are built into the code | Python, OKX API, pandas |
+| [**Studiply**](https://github.com/lpesseygirod/studiply) | A study app: record a lecture, take notes, and get a summary, flashcards and quizzes | TypeScript, React Native, Supabase |
 
-### Tools I use
+## What I work with
 
-**Languages:** Python · TypeScript · C · SQL · Swift
-**AI:** open-source LLMs on Apple MLX · LoRA/QLoRA fine-tuning · evaluation sets · Whisper · embeddings and vector search · Claude and OpenAI APIs
-**Building:** React Native/Expo · Supabase/PostgreSQL · SQLite · FastAPI · Docker · Linux/Raspberry Pi · Microsoft Azure (AZ-900)
+- **Languages:** Python, TypeScript, C, SQL, Swift
+- **AI:** open-source models on Apple MLX, LoRA fine-tuning, model evaluation, Whisper, embeddings, Claude and OpenAI APIs
+- **Other:** React Native, Supabase, SQLite, FastAPI, Docker, Raspberry Pi, Microsoft Azure (AZ-900)
 
-### Elsewhere
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/lea-pessey-girod-vicente-444a51339) · Spanish, French, English
+[LinkedIn](https://www.linkedin.com/in/lea-pessey-girod-vicente-444a51339). I speak Spanish, French and English.
