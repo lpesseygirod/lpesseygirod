@@ -5,6 +5,8 @@ I build AI systems from start to finish: the data, the model, the app around it,
 
 ### What I'm building
 
+All of these are works in progress: I started them in 2026 and keep improving them. Each page says what works today and what comes next.
+
 | Project | What it is | Built with |
 |---|---|---|
 | [**Sylvie**](https://github.com/lpesseygirod/sylvie) | A personal AI assistant that runs entirely on my laptop: voice in three languages, memory, search, actions, and a fine-tuning loop with automatic evaluation | Python, MLX, Qwen, LoRA, SQLite, Swift |
