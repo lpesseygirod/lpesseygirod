@@ -12,7 +12,7 @@ I build each project end to end, with tests, and I keep improving them. Each pag
 |---|---|---|
 | [**Survival Council**](https://github.com/lpesseygirod/survival-council) | An AI gets $50 and has to stay alive by paying for its own thinking and trading, inside rules it can't touch. [Demo ▶](https://github.com/lpesseygirod/survival-council#readme) | Python, Grok, Alpaca, Playwright |
 | [**Sylvie**](https://github.com/lpesseygirod/sylvie) | My personal AI assistant. She runs fully on my laptop, talks in three languages, and I train her myself | Python, MLX, Qwen, LoRA, Swift |
-| [**KORE**](https://github.com/lpesseygirod/kore) | A voice companion for older people who speak Spanish. The AI talks, and normal tested code handles anything safety-related | Python, Claude API, Raspberry Pi |
+| [**KORE**](https://github.com/lpesseygirod/kore) | A voice companion for older people who speak Spanish. The AI talks, and normal tested code handles anything safety-related. [Demo ▶](https://github.com/lpesseygirod/kore#readme) | Python, Claude API, Raspberry Pi |
 | [**TradeBunny**](https://github.com/lpesseygirod/tradebunny) | A crypto grid-trading system where I approve every plan and the risk rules are built into the code. [Demo ▶](https://github.com/lpesseygirod/tradebunny#readme) | Python, OKX API, backtesting |
 | [**Studiply**](https://github.com/lpesseygirod/studiply) | A study app: record a lecture, take notes, and get a summary, flashcards and quizzes | TypeScript, React Native, Supabase |
 
