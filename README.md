@@ -20,11 +20,11 @@ Open-source Qwen models on Apple MLX, voice in English, Spanish and French, memo
 </td>
 </tr>
 <tr>
-<td><a href="https://github.com/lpesseygirod/tradebunny/tree/investment-council"><img src="assets/tradebunny.png" alt="TradeBunny: one council meeting, from blind memos to the verdict"></a></td>
+<td><a href="https://github.com/lpesseygirod/tradebunny/tree/investment-council"><img src="assets/tradebunny.png" alt="TradeBunny: one council meeting, with five blind memos, the debate and the verdict"></a></td>
 <td>
 <b><a href="https://github.com/lpesseygirod/tradebunny/tree/investment-council">TradeBunny</a></b>: an AI investment committee with a code-enforced risk engine<br><br>
-AI analysts research a stock in blind rounds, a red team attacks the thesis and a CIO grades it. A risk engine in plain code is the only veto, and nothing trades without my approval. Before this, I tested a crypto grid strategy on 29 pairs and retired it by a rule written in advance.<br><br>
-<sub>Python · Claude API · Pydantic · Flask · SQLite · 1,368 tests · paper trading</sub>
+A scout finds ideas, AI analysts debate them in blind rounds, a red team attacks the thesis and a CIO grades it. Code does the maths and has the only veto, nothing trades without my approval, and a no-AI book tests whether the debate pays. Before this, I tested a crypto grid strategy on 29 pairs and retired it by a rule written in advance.<br><br>
+<sub>Python · Claude API · Pydantic · Flask · SQLite · 1,428 tests · paper trading</sub>
 </td>
 </tr>
 <tr>
